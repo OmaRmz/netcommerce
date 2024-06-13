@@ -32,6 +32,14 @@ Generate a New Application Key
 php artisan key:generate
 ```
 
+### API Docs
+
+<img width="75%" alt="Captura de pantalla 2024-06-12 a la(s) 8 01 56 p m" src="https://github.com/OmaRmz/netcommerce/assets/20484690/b037203c-17be-4e8f-a650-7573e099cc2f">
+</br>
+<p style="font-weight: bold;">
+Complete REST API Documentation can be found <a href="https://documenter.getpostman.com/view/4668789/2sA3XPCN7H">here</a>
+</p>
+
 ## Results
 
 ### All Companies
